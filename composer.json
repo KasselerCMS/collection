@@ -1,6 +1,6 @@
 {
   "name": "kasseler/collection",
-  "description": "Kasseler collection package ",
+  "description": "Array collection library",
   "keywords": [],
   "type": "library",
   "version": "1.0.0",
