@@ -1,6 +1,11 @@
 Collection Component
 =======
-
+[![Build Status](https://scrutinizer-ci.com/g/RobinCK/collection/badges/build.png?b=master)](https://scrutinizer-ci.com/g/RobinCK/collection/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/RobinCK/collection/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/RobinCK/collection/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/kasseler/collection/v/stable.svg)](https://packagist.org/packages/kasseler/cache) 
+[![Total Downloads](https://poser.pugx.org/kasseler/collection/downloads.svg)](https://packagist.org/packages/kasseler/collection) 
+[![Latest Unstable Version](https://poser.pugx.org/kasseler/collection/v/unstable.svg)](https://packagist.org/packages/kasseler/collection) 
+[![License](https://poser.pugx.org/kasseler/collection/license.svg)](https://packagist.org/packages/kasseler/collection)
 
 ### Requirements
  - PHP >= 5.4
