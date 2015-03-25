@@ -209,7 +209,7 @@ class ArrayCollection implements CollectionInterface
      */
     public function get($key = null, $default = null)
     {
-        if ($key){
+        if (null !== $key){
             return isset($this->elements[$key]) ? $this->elements[$key] : $default;
         }
 
